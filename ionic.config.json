@@ -1,0 +1,7 @@
+{
+  "name": "ionic-coupons-app-05",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
